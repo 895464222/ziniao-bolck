@@ -5,3 +5,12 @@ np.baicizhan.com##.message-icon
 np.baicizhan.com##.supports.left
 np.baicizhan.com##.service-teacher
 np.baicizhan.com##.guide-lesson-3.hover-card.guide-lesson
+np.baicizhan.com##.guide-lesson-1.hover-card.guide-lesson
+
+! 2024年8月26日 https://mytan.maiseed.com.cn
+mytan.maiseed.com.cn##.normal-conversation.scrollbar-trigger.conversations
+mytan.maiseed.com.cn##.ng-star-inserted.model-groups
+mytan.maiseed.com.cn##.ng-star-inserted.main > .left-part > .bottom-box
+mytan.maiseed.com.cn##.pointer.logo-box
+mytan.maiseed.com.cn##.pointer.history
+mytan.maiseed.com.cn##img[src^="data:image/png;base64,"]:nth-of-type(2)
